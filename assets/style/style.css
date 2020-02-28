@@ -146,3 +146,28 @@ h3 {
     font-size: 100px;
     text-shadow: 2px 2px 4px #000000;
 }
+
+#BD-p-header, #island-p-header {
+    color: white;
+    font-size: 30px;
+    text-shadow: 2px 2px 4px #000000;
+    font-weight: bold;
+    
+} 
+
+#getQuote {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    font-weight: bold;
+}
+
+#price-details{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#insntallation {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
