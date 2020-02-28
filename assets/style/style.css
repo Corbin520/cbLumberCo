@@ -1,0 +1,64 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-size: cover;
+}
+
+.navbar-nav {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 25px;
+}
+
+#heading {
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom: 45px;
+    font-family: 'Fredoka One';
+    font-size: 55px;
+}
+
+#whatWeDo {
+    font-family: 'Dosis';
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+}
+
+#whatWeDo {
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+h3 {
+    padding-bottom: 20px;
+}
+
+.form-wrapper {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: black;
+    font-weight: bold;
+    padding-top: 25px;
+}
+
+#mainPage-image {
+    border-radius: 50%;
+    margin-left: 340px;
+    margin-right: auto;
+    text-align: center;
+}
+
+#h4 {
+    text-align: center;
+}
+
+
+
