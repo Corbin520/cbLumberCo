@@ -99,8 +99,12 @@ h3 {
 }
 
 #contact-header {
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom: 45px;
+    font-family: 'Fredoka One';
     font-size: 100px;
-    padding-top: 30px;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 #email, #phone, #hours {
@@ -109,13 +113,36 @@ h3 {
 }
 
 #products-header {
-    text-align: center; 
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom: 45px;
+    font-family: 'Fredoka One';
     font-size: 100px;
-    padding-top: 30px;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 #takeALook {
     font-size: 30px;
     color: white;
     text-align: center;
+}
+
+#islandPrice {
+    text-align: center;
+}
+#islandPrice {
+    text-align: center;
+}
+
+#barnDoorPrice {
+    text-align: center;
+}
+
+#prices-header {
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom: 45px;
+    font-family: 'Fredoka One';
+    font-size: 100px;
+    text-shadow: 2px 2px 4px #000000;
 }
