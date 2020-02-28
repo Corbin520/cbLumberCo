@@ -18,7 +18,8 @@ body {
     text-align: center;
     padding-bottom: 45px;
     font-family: 'Fredoka One';
-    font-size: 55px;
+    font-size: 100px;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 #whatWeDo {
@@ -32,7 +33,12 @@ body {
 #whatWeDo {
     padding-bottom: 50px;
     text-align: center;
+    color: black;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    margin-bottom: 40px;
 }
+
 
 h3 {
     padding-bottom: 20px;
@@ -57,7 +63,6 @@ h3 {
     padding-bottom: 50px;
     height: 550px;
     border-radius: 20px;
-
 }
 
 #h4 {
@@ -65,4 +70,6 @@ h3 {
 }
 
 
-
+#startingAt {
+    color: red;
+}
