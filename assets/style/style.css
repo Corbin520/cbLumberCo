@@ -50,10 +50,14 @@ h3 {
 }
 
 #mainPage-image {
-    border-radius: 50%;
-    margin-left: 340px;
+    display: block;
+    margin-left: auto;
     margin-right: auto;
-    text-align: center;
+    width: 50%;
+    padding-bottom: 50px;
+    height: 550px;
+    border-radius: 20px;
+
 }
 
 #h4 {
