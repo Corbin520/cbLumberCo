@@ -65,7 +65,7 @@ h3 {
     margin-right: auto;
     width: 50%;
     padding-bottom: 50px;
-    height: 550px;
+    height: 600px;
     border-radius: 20px;
     color: white;
     text-shadow: 2px 2px 4px #000000;
@@ -199,5 +199,9 @@ h3 {
     }
     .form-wrapper {
         width: 350px;
+    }
+
+    #mainPage-image {
+        height: 250px;
     }
   }
